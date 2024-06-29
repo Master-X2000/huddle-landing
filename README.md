@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/master-x2000/huddle-landing)
-- Live Site URL: [Add live site URL here](https://master-x2000.github.cio/huddle-landing/)
+- Live Site URL: [Add live site URL here](https://master-x2000.github.io/huddle-landing/)
 
 ## My process
 
